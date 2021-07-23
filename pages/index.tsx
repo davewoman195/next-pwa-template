@@ -4,7 +4,7 @@ const Index = () => (
 	<Page>
 		<section className='mt-20'>
 			<h2 className='text-xl font-semibold text-gray-800 dark:text-gray-200'>
-				We grow a lot of rice.
+				Hehe Boi.
 			</h2>
 
 			<p className='mt-2 text-gray-600 dark:text-gray-400'>
